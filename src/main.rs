@@ -25,10 +25,9 @@ fn main() {
     let mut i = i;
 
     i = "S";
-    }
 
     println!("{}", i);
-    
+    }
 
     if u == i  {
         println!("X is a String. i = {}. u = {} ", i, u);
