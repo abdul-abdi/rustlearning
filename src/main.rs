@@ -11,6 +11,7 @@ fn main() {
     println!("{:?}", slice);
     let number = array.len();
     println!("{}", number);
+	let _a = 10987;
 
     {
 
